@@ -1,1 +1,3 @@
-#!/bin/bash "Scool"
+#!bin/bash
+
+echo "Updated"
